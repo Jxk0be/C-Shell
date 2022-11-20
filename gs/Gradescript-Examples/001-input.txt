@@ -1,0 +1,1 @@
+cat /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-1.txt

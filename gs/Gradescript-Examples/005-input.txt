@@ -1,0 +1,4 @@
+/home/cosc360/lab7/gs/strays /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-5.txt
+/home/cosc360/lab7/gs/scattostde /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-4.txt
+/home/cosc360/lab7/gs/strays /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-3.txt
+/home/cosc360/lab7/gs/cattostde /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-2.txt

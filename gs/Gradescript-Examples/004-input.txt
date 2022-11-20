@@ -1,0 +1,4 @@
+/home/cosc360/lab7/gs/cattostde /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-9.txt
+cat /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-8.txt
+/home/cosc360/lab7/gs/cattostde /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-7.txt
+cat /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-6.txt

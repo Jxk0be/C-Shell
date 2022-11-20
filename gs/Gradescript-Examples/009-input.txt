@@ -1,0 +1,5 @@
+/home/cosc360/lab7/gs/strays-files /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-6.txt f1.txt &
+this-program-does-not-exist &
+cat /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-7.txt
+cat /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-8.txt
+sleep 1
