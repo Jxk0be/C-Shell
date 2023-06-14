@@ -1,3 +1,0 @@
-/home/cosc360/lab7/gs/strays-sleep /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-5.txt &
-/home/cosc360/lab7/gs/strays /home/cosc360/lab7/gs/Gradescript-Examples/Input-File-3.txt
-sleep 1
